@@ -10,3 +10,5 @@ I have experience working with these languages:
 - C (specifically C89/C90)
 
 I am also interested in learning Rust.
+
+Please consider [hiring me](https://www.linkedin.com/in/benjamin-hottell-728ab2253/)
